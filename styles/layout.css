@@ -7,7 +7,7 @@
 }
 
 main {
-    overflow: auto ;
+    overflow: auto;
     padding: 4rem;
 
     & .main-container {
@@ -45,6 +45,22 @@ aside {
         margin-bottom: .5rem;
         & span {
             color: var(--text-highlight);
+        }
+    }
+}
+
+@media (width < 80em) {
+    #app {
+        display: flex;
+        flex-direction: column-reverse;
+        overflow: auto;
+    }
+    main {
+        overflow: unset;
+    }
+    aside {
+        & h2, & p {
+            display: none;
         }
     }
 }
