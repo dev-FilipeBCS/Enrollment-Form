@@ -7,7 +7,6 @@ Este projeto faz parte do curso Fullstack da Rocketseat. Ele explora a criação
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -38,10 +37,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 O formulário de matrícula apresenta uma página para matricular uma criança na escola Estrelas do Amanhã.
 
 - [Acesse o projeto finalizado online](https://dev-filipebcs.github.io/Enrollment-Form/)
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESTE LINK](https://www.figma.com/community/file/1365016793556649696/formulario-de-matricula). É necessário ter uma conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
